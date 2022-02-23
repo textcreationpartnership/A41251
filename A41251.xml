@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Few short arguments proving that 'tis every English-man's interest as well as duty at all times to endeavor the absolute and effectual repeal of all the religious penal laws and tests now in force against Catholics and dissenters so as they may never more be revived, and the rather because thereby liberty and property may be better secured than at present they are.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41251</idno>
+            <idno type="STC">Wing F837</idno>
+            <idno type="STC">ESTC R31509</idno>
+            <idno type="EEBO-CITATION">12033086</idno>
+            <idno type="OCLC">ocm 12033086</idno>
+            <idno type="VID">52805</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41251)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52805)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1010:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Few short arguments proving that 'tis every English-man's interest as well as duty at all times to endeavor the absolute and effectual repeal of all the religious penal laws and tests now in force against Catholics and dissenters so as they may never more be revived, and the rather because thereby liberty and property may be better secured than at present they are.</title>
+               </titleStmt>
+               <extent>2 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills ... and are to be sold at his printing house ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Test Act (1673)</term>
+               <term>Dissenters, Religious --  Legal status, laws, etc. --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:52805:1" rendition="simple:additions"/>
+            <head>A few ſhort ARGUMENTS Proving that 'tis every Engliſh-man's <hi>Intereſt as well as Duty,</hi> AT ALL TIMES To endeavor the abſolute and effectual Repeal of all the Religious Penal Laws and Teſts, now in force againſt Catholics or Diſſenters, ſo as they may never more be revived, and the rather becauſe thereby Liberty and Property may be better ſecured, than at preſent they are.</head>
+            <p>MOST of the Authors who have Written for the Repeal of the Penal Laws and Teſts, tho' they fall ſhort of the end they aim at in convin<g ref="char:EOLhyphen"/>cing their Adverſaries, are yet too tedious for the generality to Read, and too difficult to be underſtood by their perplexing and obſcuring the matter with divers collateral Controverſies little to the point in hand, which briefly and yet plainly is comprehended in theſe two following Poſitions.</p>
+            <p>Firſt, That 'tis every Mans Duty as a Man, and every Chriſtians, tho' they ſhould ſuffer by it, to endeavor the Repealing of the ſaid Penal Laws and Teſts, how good ſoever they may be eſteemed in themſelves, ſo long as any tho' never ſo few, upon the account of Religi<g ref="char:EOLhyphen"/>on, are aggrieved by them and refuſe to take them.</p>
+            <p>Secondly, That if we pleaſe, no more Danger nor Damage, than we are at preſent ſubject to, will enſue to either Perſon or Party whatſoever in <hi>England</hi> by the ſaid Repeal, in either Life, Liberty, Limb, Eſtate, or Privilege. If then it appears by the following proofs that we ought to Repeal them, and that it may be ſafely done without dammage to any; It is hoped there is ſcarce a perſon ſo ignorant, obſtinate, or imprudent in <hi>England,</hi> whe<g ref="char:EOLhyphen"/>ther Conformiſt, or Non-conformiſt but will readily concur in ſuch a work, tho' there were no other advantage to themſelves but only their compliance with His Majeſty in a ſettlement he ſo much deſires; which may be the leſs doubted becauſe the neceſſary conſe<g ref="char:EOLhyphen"/>quences are general Quiet, by every Mans ſecurity and Intereſt to preſerve it, the en<g ref="char:EOLhyphen"/>larging of Trade, the ſtrengthening the King and Kingdom againſt Foreign attempts: In ſhort, Eaſe and Riches with Liberty of being as Religious as we can or pleaſe.</p>
+            <p>To prove then the firſt Poſition, there may be inſtanced that Golden and Everlaſting Rule of God and Nature, To do as we would be done unto: If we fear a future Impoſiti<g ref="char:EOLhyphen"/>on from others, let us not impoſe at preſent our Teſts and Penal Laws upon others, but ſo provide that none may impoſe or be impoſed upon: But further as Chriſtians we are ob<g ref="char:EOLhyphen"/>liged to do no Evil that Good may come on it, to Pray for our Enemies, and tho' former<g ref="char:EOLhyphen"/>ly ſome may upon the ſcore of Religion have been by others evil treated, yet muſt we re<g ref="char:EOLhyphen"/>turn
+<pb n="2" facs="tcp:52805:2"/>good for Evil and ſo heap Coals of Fire on the Head of our Adverſaries, the only lawful Revenge permitted Chriſtians; and this is a Duty from which none can be exempted before God or Man: To which may be further added, that the ſaid Golden Rule is both a higher Law and greater good than our Teſt and Penal Laws are, and that 'tis as much a ſin both againſt God and Nature to break the foreſaid Natural and Goſpel Rules, by afflicting a few, as if we injured multitudes, for an Erroneous Conſcience or unbelief only.</p>
+            <p>But ſecondly, we may by new Laws be as well if not better ſecured, in every particular circumſtance, than we now are by the Penal Laws and Teſts; ſo that 'tis our intereſt as well as our duty, for which ſome Specimens follow, which may without queſtion by the Wiſdom of Parliament be higher improved.</p>
+            <p>Firſt, If His Majeſty ſhould pleaſe to conſent to ſuch Expedients as may be propounded in Parliament, to prevent for the future all falſe returns of Members to ſerve in Parliament, this would be a much better ſecurity than any yet provided, the Penalties be the ſame or the like as thoſe of the Teſt, both for the Offending perſons returning, returned, and aſſiſting.</p>
+            <p>Secondly, If no perſon be ſuffered to Enter either Houſes of Lords or Commons, or any Civil or Military Employ, until he hath renounced the principle of Perſecuting any for Reli<g ref="char:EOLhyphen"/>gious Worſhip ſake be it what it will, and likewiſe ſubſcribes to undergo the Penalties al<g ref="char:EOLhyphen"/>ready preſcribed by the Teſt, if ever he moves or concerns in the repealing this new <hi>Magna Charta</hi> of Liberty: This is ſtill much better ſecurity for every Religious party than any now in being.</p>
+            <p>Thirdly, If all the Eccleſiaſtical Dignities and Preferments be by this new Law firmly Eſtabliſh't to Conformiſts only, which now are but very precariouſly in the Poſſeſſion of the Church of <hi>England,</hi> they will be thus much better than now they are, becauſe they keep the ſame Poſſeſſions and Profits by a ſtronger Title, and are only deprived of a Power to do miſchief.</p>
+            <p>Fourthly, If all this be conſented to before the Old Laws againſt Catholics and Diſ<g ref="char:EOLhyphen"/>ſenters are Repealed, or together with the ſame; what hazard do we run, or how is it poſſible the Catholics can do us any more hurt than at preſent, or obtain the whole or greateſt ſhare of the Government?</p>
+            <p>Fifthly, Nor would it be the leaſt ſecurity to the Nation to have ſuch an Engine de<g ref="char:EOLhyphen"/>ſtroyed as the Penal Laws and Teſt are, which at ſome time or other may by the ſubtilty of the Lawyers <hi>Innuendos</hi> and Explanations be converted by the Government againſt any party whatſoever that diſpleaſeth them, and the ſafety and ſatisfaction we now have by the Repeal of the Statute <hi>de Heretico comburendo</hi> may incourage us to Damn all of the like nature.</p>
+            <p>Laſtly, If this ſettlement prevents ſuch miſchiefs to the Nation, as deſperation may inſpire into a party not backward to preſerve themſelves, it will be a further Collateral ſe<g ref="char:EOLhyphen"/>curity to the whole.</p>
+            <div type="postscript">
+               <head>POSTSCRIPT.</head>
+               <p>
+                  <hi>There are lately Publiſhed, for the Information of the Curious, who are willing to be further ſatisfied, concerning the weakneſs of the Church of</hi> England<hi>'s Legal E<g ref="char:EOLhyphen"/>ſtabliſhment, and the Illegallity of the Penal Laws and Teſts, according to our Com<g ref="char:EOLhyphen"/>mon-Law, and</hi> Magna Charta, <hi>Three ſmall Treatiſes;</hi> viz. A Reply to the Reaſons of the <hi>Oxford</hi> Clergy, againſt Addreſſing, <hi>&amp;c.</hi> Remarks on the ſeveral San<g ref="char:EOLhyphen"/>guinary and Penal Laws made in Parliament againſt Roman Catholics. A Diſcourſe for taking off the Teſts and Penal Laws about Religion, <hi>to which and divers others lately Printed, I refer the Candid and Judicious Reader for better ſatisfaction.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Henry Hills,</hi> Printer to the King's Moſt Excellent Majeſty, for His Houſhold and Chappel; And are ſold at his Printing-houſe on the Ditch-ſide in <hi>Black-Fryers.</hi> 1687.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
